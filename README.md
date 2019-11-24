@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # resume
 
 > resume for charles carlson
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# resume
+>>>>>>> 13a069d4299237e2be02763a49105212dd1eb6c4
